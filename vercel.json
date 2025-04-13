@@ -1,0 +1,10 @@
+credentialing-pro-ui/
+├── vercel.json ✅
+├── package.json
+├── src/
+├── public/
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ]
+}

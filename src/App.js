@@ -1,9 +1,3 @@
-import logo from './logo.svg';
-import './App.css';
-
-
-
-export default App;
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Login from './pages/Login';
@@ -34,4 +28,5 @@ function App() {
 }
 
 export default App;
+
 

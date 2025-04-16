@@ -27,11 +27,9 @@ function App() {
   );
 }
 
-function App() {
-  // your component logic
-}
-
 export default App;
+
+
 
 
 

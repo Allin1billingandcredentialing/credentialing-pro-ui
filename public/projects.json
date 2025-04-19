@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Credentialing Pro™",
+    "status": "Live",
+    "description": "Provider enrollment automation for CAQH, CMS, NPPES"
+  },
+  {
+    "id": 2,
+    "name": "NPPES Integration",
+    "status": "In Progress",
+    "description": "API connection to NPI Registry"
+  }
+]

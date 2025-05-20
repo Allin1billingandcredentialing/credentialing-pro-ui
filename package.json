@@ -40,3 +40,7 @@
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
 }
+"scripts": {
+  "start": "serve -s build",
+  "build": "react-scripts build"
+}
